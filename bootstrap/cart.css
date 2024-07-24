@@ -1,0 +1,27 @@
+.cart-card{
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 50%;
+    
+}
+
+.cart-details p{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: medium;
+    text-align: left;
+    color: rgb(172, 17, 17);
+
+}
+
+.form-select{
+  
+    
+    margin-left: 30%;
+    margin-top: -10%;
+}
+
+.amount{
+    margin-top: -6%;
+    margin-left: 75%;
+}

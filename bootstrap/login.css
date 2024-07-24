@@ -1,0 +1,29 @@
+.login-card{
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+
+.login-button{
+    border-radius: 20%;
+    margin-left: 45%;
+    align-items: center;
+
+}
+
+.login-button button{
+    width: 100px;
+    height: 4
+    
+}
+
+p{
+    margin-left: 5.8%;
+    color: rgb(158, 155, 155);
+    text-align: center;
+}
+
+.login-card img{
+    height: 550px;
+}

@@ -1,0 +1,31 @@
+
+.navbar ul{
+    
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: black;
+
+   
+}
+
+.navbar li{
+    float: left;
+   
+}
+
+.navbar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.engine{
+    float: right;
+    margin-top: 10px;
+    padding-right: 50px;
+}

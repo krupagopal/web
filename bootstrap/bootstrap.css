@@ -1,0 +1,60 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+
+header{
+    background-color: rgb(247, 244, 247);
+}
+.search-bar{
+    padding-right: 30%;
+   
+}
+
+.homepage{
+    font-size: 50%;
+
+}
+
+.cart{
+        padding-right: 20px;
+}
+
+.heart-wishlist{
+    padding-right: 25px;
+}
+
+.notification-tab{
+    padding-right: 5%;
+}
+
+footer{
+    background-color: rgb(151, 147, 173);
+}
+
+*{
+    
+    box-sizing: border-box;
+}
+
+.footer-icons{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer-icons a{
+    text-decoration: none;
+    padding:  10px;
+    background-color: white;
+    color: black;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.footerBottom{
+    text-align: center;
+    color: white;
+}
+
+
+
